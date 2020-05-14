@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-eureka-server-7004" />
+        <module name="cloud-eureka-server-7003" />
+        <module name="cloud-euraka-server-7002" />
+        <module name="cloud-euraka-server" />
+        <module name="cloud-config-server" />
+        <module name="cloud-euraka-server-7001" />
+        <module name="cloud-feign-order-8010" />
+        <module name="cloud-paymant" />
+        <module name="cloud-payment-8003" />
+        <module name="cloud-consil-server" />
+        <module name="cloud-common" />
+        <module name="cloud-payment-8001" />
+        <module name="cloud-gateway-gateway9527" />
+        <module name="cloud-consumer-hystrix-dashboard9001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud" target="1.8" />
+      <module name="cloud-common" target="1.8" />
+      <module name="cloud-config-server" target="1.8" />
+      <module name="cloud-consil-server" target="1.8" />
+      <module name="cloud-consul-order" target="1.8" />
+      <module name="cloud-consul-payment-client" target="1.8" />
+      <module name="cloud-consul-server" target="1.8" />
+      <module name="cloud-consul-server-7005" target="1.8" />
+      <module name="cloud-consul-server-7006" target="1.8" />
+      <module name="cloud-consumer-hystrix-dashboard9001" target="1.8" />
+      <module name="cloud-euraka-server" target="1.8" />
+      <module name="cloud-euraka-server-7001" target="1.8" />
+      <module name="cloud-euraka-server-7002" target="1.8" />
+      <module name="cloud-eureka-server-7003" target="1.8" />
+      <module name="cloud-eureka-server-7004" target="1.8" />
+      <module name="cloud-feign-order-8010" target="1.8" />
+      <module name="cloud-gateway-9527" target="1.8" />
+      <module name="cloud-gateway-gateway9527" target="1.8" />
+      <module name="cloud-order-80" target="1.8" />
+      <module name="cloud-payment-8001" target="1.8" />
+      <module name="cloud-payment-8002" target="1.8" />
+      <module name="cloud-payment-8003" target="1.8" />
+      <module name="cloud-payment-8006" target="1.8" />
+      <module name="cloudalibaba-consumer-nacos-order83" target="1.8" />
+      <module name="cloudalibaba-consumer-nacos-order84" target="1.8" />
+      <module name="cloudalibaba-provider-payment9001" target="1.8" />
+      <module name="cloudalibaba-provider-payment9002" target="1.8" />
+      <module name="cloudalibaba-provider-payment9003" target="1.8" />
+      <module name="cloudalibaba-provider-payment9004" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-common" options="" />
+      <module name="cloud-euraka-server-7001" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-euraka-server-7001/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/cloud-consil-server/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consul-order/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consul-payment-client/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consul-server-7005/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consul-server-7006/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consul-server/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-euraka-server-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-gateway-9527/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-order-80/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-payment-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-payment-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-paymentconsul-8006/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudalibaba-provider-payment9001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudalibaba-provider-payment9002/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudalibaba-provider-payment9003/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudalibaba-provider-payment9004/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
